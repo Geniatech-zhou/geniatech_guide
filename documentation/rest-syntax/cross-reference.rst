@@ -49,7 +49,7 @@
     .. _my-reference-label支持中文:
 
     .. figure: ../media/rest-syntax/pic-video/logo.png
-       :alt: 野火logo
+       :alt: Geniatech logo
        :align: center
 
     引用方式 :ref:`my-reference-label支持中文` 。
@@ -60,7 +60,7 @@
 .. _my-reference-label支持中文:
 
 .. figure:: ../media/rest-syntax/pic-video/logo.png
-    :alt: 野火logo
+    :alt: Geniatech logo
     :align: center
 
     必须写这个图片名
@@ -142,21 +142,21 @@
 
 
 
-要在被引用的文件头定义标签，如about_us.rst文件头写 “about_embedfire” 的标签，具体请查看该文档的源码
+要在被引用的文件头定义标签，如about_us.rst文件头写 “about_geniatech” 的标签，具体请查看该文档的源码
 
 
 语法：
 ::
 
-    :ref:`自定义链接文字 <about_embedfire>`
+    :ref:`自定义链接文字 <about_geniatech>`
 
-    :ref:`about_embedfire`
+    :ref:`about_geniatech`
 
 效果：
 
-:ref:`about_embedfire <about_embedfire>`
+:ref:`about_geniatech <about_geniatech>`
 
-:ref:`about_embedfire`
+:ref:`about_geniatech`
 
 若要跨文档引用标题，可以使用自动切片扩展插件，它的使用方式如下：
 
