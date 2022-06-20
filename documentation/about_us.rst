@@ -1,32 +1,32 @@
 .. vim: syntax=rst
 
-.. _about_embedfire:
+.. _about_geniatech:
 
-关于野火
+关于Geniatech
 ==============
 
 
 开源共享，共同进步
 ----------------------------------
 
-野火在发布第一块STM32开发板之初，就喊出 **开源共享，共同进步** 的口号，
-把代码和文档教程都免费提供给用户下载，而我们也一直把这个理念贯穿至今。
+金亚太公司是全球领先的媒体播放器、智能电视及物联网设备和软件的ODM/OEM平台供应商之一。我们的产品和服务系列包括智能IPTV OTT/STB、
+智能混合OTT/STB、全系列数字电视调谐器、视频捕获器、IoT网关和传感器、商用开发板和平板电脑。我们提供基于Linux和Android操作系统上软、
+硬件设计的创新解决方案。Geniatech的客户和合作伙伴享受着我们在定制和开发能力方面的服务，以支持他们的生态系统、硬件、软件、固件
+和驱动程序的设计、开发和制造服务。
 
-目前我们的产品已经包括 *STM32、i.MX RT系列、GD32V、FPGA、Linux、emXGUI、
-操作系统、网络、下载器* 等分支，覆盖电子工程应用领域的各种常用技术，
-其中教学类产品的代码和文档一直保持着开源的姿态发布到网络上，
-为电子工程师排忧解难，让嵌入式没有难用的技术是我们最大的愿望。
+深圳金亚太科技有限公司，中国最早的专业多媒体视频厂商之一，国家级高新技术企业。也是全球领先的OEM/ODM制造商之一，专业为各个工业领域提供基于Android/ Linux的开放式硬件和软件平台。
+
+金亚太专业为各个工业领域提供基于Android/ Linux的开放式硬件和软件平台。我们自己的研发部门包括硬件设计、应用程序编程、驱动程序移植和内核修改，使我们能够满足客户的专业定制需求。结合我们自己的工厂，我们能迅速为客户提供全球范围的服务。为了需要在安卓系统上增加和实现一些特定功能，我们创造了很多的API接口，如CEC、IR发射器、RS232、隐藏状态栏、打开/关闭WiFi或以太网、HDMI输入接口、TV调谐器、关闭显示、控制CPU速度等超过20种API和SDK支持。
 
 联系方式
 -----------------------------
 
-- 官网： http://www.embedfire.com
-- 论坛： http://www.firebbs.cn
-- github主页：https://github.com/Embedfire
-- gitee主页： https://gitee.com/wildfireteam
-- 淘宝： https://yehuosm.tmall.com
-- 邮箱： embedfire@embedfire.com
-- 电话： 0769-33894118
+- 官网1： http://www.geniatech.com
+- 官网2： http://www.geniatech.cn
+- 网上商城： https://shop.geniatech.com/
+- github主页：https://github.com/Geniatech-zhou/geniatech_guide.git
+- 邮箱： services@geniatech.com
+- 电话： 0755-86028588
 
 
 
