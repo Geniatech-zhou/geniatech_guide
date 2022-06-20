@@ -10,11 +10,10 @@
 
 
 
-野火的每个项目的《 :doc:`../README` 》文件中都包含有项目的git仓库地址，
+Geniatech的每个项目的《 :doc:`../README` 》文件中都包含有项目的git仓库地址，
 通过git提交 **issue** 、**pull request** 的方式可参与到项目。
 
-我们主要使用github仓库进行维护和更新，gitee仓库用于方便用户快速下载，
-我们一般只在gitee上同步github的master分支，所以参与项目时请尽量使用github。
+我们主要使用github仓库进行维护和更新。
 
 
 轻度参与，提交issue
