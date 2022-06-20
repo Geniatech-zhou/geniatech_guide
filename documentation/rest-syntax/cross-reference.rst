@@ -14,11 +14,11 @@
 ::
 
     直接嵌入网址：
-    `野火公司官网 <http://www.embedfire.com>`_
+    `Geniatech官网 <http://www.geniatech.com>`_
 
-    使用引用的方式把具体网址定义在其它地方： `野火公司官网`_
+    使用引用的方式把具体网址定义在其它地方： `Geniatech公司官网`_
 
-    .. _野火公司官网: http://www.embedfire.com
+    .. _Geniatech公司官网: http://www.geniatech.com
 
 效果：
 
@@ -26,11 +26,11 @@
 
 直接嵌入网址：
 
-`野火公司官网 <http://www.embedfire.com>`_
+`Geniatech公司官网 <http://www.geniatech.com>`_
 
-使用引用的方式把具体网址定义在其它地方： `野火公司官网`_
+使用引用的方式把具体网址定义在其它地方： `Geniatech公司官网`_
 
-.. _野火公司官网: http://www.embedfire.com
+.. _Geniatech公司官网: http://www.geniatech.com
 
 
 
